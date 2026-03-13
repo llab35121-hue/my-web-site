@@ -2,8 +2,7 @@ body{
 font-family: Arial;
 margin:0;
 text-align:center;
-background:#f4f4f4;
-background-image: url("../pictures/23.jpg");
+background:black;
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -47,3 +46,4 @@ margin:10px;
 box-shadow:0 0 5px gray;
 
 }
+
