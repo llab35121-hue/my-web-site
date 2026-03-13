@@ -25,12 +25,7 @@ section{
 padding:40px;
 font-size: larger;
 
-}
-#pr{
-padding:40px;
-font-size: 75px;
-color: #f4f4f4;
-}
+
 .skills div{
 display:inline-block;
 background:#00adb5;
@@ -46,4 +41,5 @@ margin:10px;
 box-shadow:0 0 5px gray;
 
 }
+
 
